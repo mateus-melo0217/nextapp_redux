@@ -1,5 +1,5 @@
-# next-connect-redux
-Connect Next.js to Redux.
+# Next.js Demo connected with redux
+This project is Next.js application connected to Redux.
 
 ## How to use
 
